@@ -1,3 +1,3 @@
 ﻿Lat,Lon,Dist (km),Linha,Tensão (kV),Sub Origem,Sub Destino,Concessionária,Risco
 -8.85,-46.7,0.32,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--11.63,-56.86,138.25,"LT 500 kV UHE Colíder - Cláudia, C1",500.0,UHE Colíder,Cláudia,Copel-gt - Copel Geração E Transmissão S.a,🟢 BAIXO
+-12.73,-54.2,110.49,"LT 500 kV Cláudia - Paranatinga, C3",500.0,Cláudia,Paranatinga,Prte - Paranaíta Ribeirãozinho Transmissora De Energia Sa,🟢 BAIXO
