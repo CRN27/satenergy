@@ -1,3 +1,16 @@
 ﻿Lat,Lon,Dist (km),Linha,Tensão (kV),Sub Origem,Sub Destino,Concessionária,Risco
--8.85,-46.7,0.32,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--12.73,-54.2,110.49,"LT 500 kV Cláudia - Paranatinga, C3",500.0,Cláudia,Paranatinga,Prte - Paranaíta Ribeirãozinho Transmissora De Energia Sa,🟢 BAIXO
+-5.06,-42.62,0.32,LT 230 kV Teresina - Piripiri C1,230.0,Teresina,Piripiri C1,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
+-8.84,-46.7,1.08,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
+-8.84,-46.71,1.75,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
+-9.11,-38.2,1.92,LT 230 kV Paulo Afonso III - Tacaratu C1,230.0,Paulo Afonso III,Tacaratu C1,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
+-5.33,-44.69,2.09,LT 500 kV Imperatriz - Presidente Dutra C1,500.0,Imperatriz,Presidente Dutra C1,Eletronorte - Centrais Elétricas Do Norte Do Brasil S/a,🔴 CRÍTICO
+-8.84,-46.72,2.59,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
+-8.85,-46.72,2.69,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
+-8.84,-46.72,3.26,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
+-9.11,-38.21,3.37,LT 230 kV Paulo Afonso III - Tacaratu C1,230.0,Paulo Afonso III,Tacaratu C1,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
+-8.83,-46.72,3.45,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
+-8.83,-46.73,4.11,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
+-8.83,-38.93,4.3,LT 500 kV Luiz Gonzaga - Sobradinho C2,500.0,Luiz Gonzaga,Sobradinho C2,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
+-5.02,-41.67,4.99,"LT 500 kV Crateús - Teresina IV, C1",500.0,Crateús,Teresina IV,,🔴 CRÍTICO
+-13.35,-44.33,5.65,LT 500 kV Rio das Éguas - Bom Jesus da Lapa II C1,500.0,Rio das Éguas,Bom Jesus da Lapa II C1,Taesa - Transmissora Aliança De Energia Elétrica S A,🔴 CRÍTICO
+-12.01,-45.36,7.73,"LT 230 kV Dianópolis II - Barreiras II, C1",230.0,Dianópolis II,Barreiras II,Energ Tocantins - Energisa Tocantins Transmissora De Energia S.a.,🔴 CRÍTICO
