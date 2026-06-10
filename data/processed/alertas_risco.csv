@@ -1,16 +1,16 @@
 ﻿Lat,Lon,Dist (km),Linha,Tensão (kV),Sub Origem,Sub Destino,Concessionária,Risco
--5.06,-42.62,0.32,LT 230 kV Teresina - Piripiri C1,230.0,Teresina,Piripiri C1,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
--8.84,-46.7,1.08,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--8.84,-46.71,1.75,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--9.11,-38.2,1.92,LT 230 kV Paulo Afonso III - Tacaratu C1,230.0,Paulo Afonso III,Tacaratu C1,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
--5.33,-44.69,2.09,LT 500 kV Imperatriz - Presidente Dutra C1,500.0,Imperatriz,Presidente Dutra C1,Eletronorte - Centrais Elétricas Do Norte Do Brasil S/a,🔴 CRÍTICO
--8.84,-46.72,2.59,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--8.85,-46.72,2.69,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--8.84,-46.72,3.26,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--9.11,-38.21,3.37,LT 230 kV Paulo Afonso III - Tacaratu C1,230.0,Paulo Afonso III,Tacaratu C1,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
--8.83,-46.72,3.45,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--8.83,-46.73,4.11,LT 800 kV Graça Aranha – Silvânia,800.0,Graça Aranha,Silvânia,,🔴 CRÍTICO
--8.83,-38.93,4.3,LT 500 kV Luiz Gonzaga - Sobradinho C2,500.0,Luiz Gonzaga,Sobradinho C2,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
--5.02,-41.67,4.99,"LT 500 kV Crateús - Teresina IV, C1",500.0,Crateús,Teresina IV,,🔴 CRÍTICO
--13.35,-44.33,5.65,LT 500 kV Rio das Éguas - Bom Jesus da Lapa II C1,500.0,Rio das Éguas,Bom Jesus da Lapa II C1,Taesa - Transmissora Aliança De Energia Elétrica S A,🔴 CRÍTICO
--12.01,-45.36,7.73,"LT 230 kV Dianópolis II - Barreiras II, C1",230.0,Dianópolis II,Barreiras II,Energ Tocantins - Energisa Tocantins Transmissora De Energia S.a.,🔴 CRÍTICO
+-6.85,-47.93,0.14,LT 500 kV Imperatriz - Colinas C2,500.0,Imperatriz,Colinas C2,Taesa - Transmissora Aliança De Energia Elétrica S A,🔴 CRÍTICO
+-14.24,-47.99,0.21,LT 500 kV Serra da Mesa 2 - Luziânia C1,500.0,Serra da Mesa 2,Luziânia C1,Smte - Serra Da Mesa Transmissora De Energia S/a.,🔴 CRÍTICO
+-14.23,-47.99,0.22,LT 500 kV Serra da Mesa 2 - Luziânia C1,500.0,Serra da Mesa 2,Luziânia C1,Smte - Serra Da Mesa Transmissora De Energia S/a.,🔴 CRÍTICO
+-14.23,-48.0,0.42,LT 500 kV Serra da Mesa 2 - Luziânia C1,500.0,Serra da Mesa 2,Luziânia C1,Smte - Serra Da Mesa Transmissora De Energia S/a.,🔴 CRÍTICO
+-6.84,-47.93,0.44,LT 500 kV Imperatriz - Colinas C2,500.0,Imperatriz,Colinas C2,Taesa - Transmissora Aliança De Energia Elétrica S A,🔴 CRÍTICO
+-20.33,-41.96,0.78,LT 345 kV Padre Fialho - Vitória C1,345.0,Padre Fialho,Vitória C1,Furnas - Furnas Centrais Elétricas S.a.,🔴 CRÍTICO
+-5.61,-37.53,1.09,"LT 500 kV Açu III - Quixadá, C1",500.0,Açu III,Quixadá,Esperanza - Esperanza Transmissora De Energia S.a.,🔴 CRÍTICO
+-14.23,-47.98,1.24,LT 500 kV Serra da Mesa 2 - Luziânia C1,500.0,Serra da Mesa 2,Luziânia C1,Smte - Serra Da Mesa Transmissora De Energia S/a.,🔴 CRÍTICO
+-5.61,-37.53,1.37,"LT 500 kV Açu III - Quixadá, C1",500.0,Açu III,Quixadá,Esperanza - Esperanza Transmissora De Energia S.a.,🔴 CRÍTICO
+-12.42,-48.72,1.38,LT 500 kV Gurupi - UHE Serra da Mesa C1,500.0,Gurupi,UHE Serra da Mesa C1,Furnas - Furnas Centrais Elétricas S.a.,🔴 CRÍTICO
+-19.85,-48.07,1.49,"LT 500 kV Jaguara - São Simão, C1",500.0,Jaguara,São Simão,Cemig Gt - Cemig Geração E Transmissão S.a,🔴 CRÍTICO
+-5.61,-37.53,1.55,"LT 500 kV Açu III - Quixadá, C1",500.0,Açu III,Quixadá,Esperanza - Esperanza Transmissora De Energia S.a.,🔴 CRÍTICO
+-6.89,-47.96,1.55,LT 500 kV Imperatriz - Colinas C1,500.0,Imperatriz,Colinas C1,Eletronorte - Centrais Elétricas Do Norte Do Brasil S/a,🔴 CRÍTICO
+-7.97,-34.9,1.81,LT 230 kV Recife II - Mirueira C3,230.0,Recife II,Mirueira C3,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
+-7.97,-34.89,1.81,"LT 230 kV Mirueira II - Pau Ferro, C2",230.0,Mirueira II,Pau Ferro,Chesf - Chesf - Companhia Hidro Elétrica Do São Francisco,🔴 CRÍTICO
